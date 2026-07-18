@@ -14,8 +14,7 @@ class Solution(object):
                         if x[j] == z[j-1]:
                             pass
                         else:
-                            y = False
-                            
+                            y = False              
         return y
              
                 
